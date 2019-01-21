@@ -13,6 +13,11 @@
     "validation",
     "middleware"
   ],
+  "homepage": "https://github.com/wizardpisces/koa-struct-validation.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizardpisces/koa-struct-validation.git"
+  },
   "author": "caprice@klook.com",
   "license": "ISC"
 }
