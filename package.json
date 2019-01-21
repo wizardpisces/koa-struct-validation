@@ -1,0 +1,18 @@
+{
+  "name": "koa-struct-validation",
+  "version": "1.0.0",
+  "description": "based on superstruct,koa2 request params validation middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "superstruct",
+    "koa",
+    "params",
+    "validation",
+    "middleware"
+  ],
+  "author": "caprice@klook.com",
+  "license": "ISC"
+}
