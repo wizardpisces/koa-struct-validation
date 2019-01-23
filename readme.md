@@ -2,7 +2,7 @@
 
 koa2 api request params validation middleware (based on [superstruct](https://github.com/ianstormtaylor/superstruct))
 
-Support ( Post , Get ) for not nested params check
+Support ( Post , Get ) 
 
 ## How to Use
 
