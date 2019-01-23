@@ -1,6 +1,6 @@
 {
   "name": "koa-struct-validation",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "based on superstruct,koa2 request params validation middleware",
   "main": "index.js",
   "scripts": {
