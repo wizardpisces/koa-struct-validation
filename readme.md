@@ -33,7 +33,7 @@ router.get('/item/list',validateApiSchema(API_SCHEMA_OBJ.getItemList), item_api.
 
 ```
 
-**api_data_rules**
+**api_data_rules.js**
 
 ```javascript
 
@@ -59,7 +59,7 @@ module.exports = API_SCHEMA_OBJ
 
 ```
 
-***controllers/item.js**
+**controllers/item.js**
 
 ```javascript
 const getItemList =  async function(ctx) {

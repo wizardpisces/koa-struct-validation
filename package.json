@@ -4,7 +4,8 @@
   "description": "based on superstruct,koa2 request params validation middleware",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "sh build/release.sh"
   },
   "keywords": [
     "superstruct",

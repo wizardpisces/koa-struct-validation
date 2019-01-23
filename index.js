@@ -27,6 +27,4 @@ const validateApiSchema = function (model) {
     }
 }
 
-module.exports = {
-    validateApiSchema
-}
+module.exports = validateApiSchema
